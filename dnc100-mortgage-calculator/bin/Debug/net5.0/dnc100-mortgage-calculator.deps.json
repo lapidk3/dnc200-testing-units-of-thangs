@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dnc100-mortgage-calculator/1.0.0": {
+        "runtime": {
+          "dnc100-mortgage-calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnc100-mortgage-calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

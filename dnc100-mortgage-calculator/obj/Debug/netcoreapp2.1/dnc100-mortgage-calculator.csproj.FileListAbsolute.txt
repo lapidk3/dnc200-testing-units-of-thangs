@@ -1,0 +1,12 @@
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/bin/Debug/netcoreapp2.1/dnc100-mortgage-calculator.deps.json
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/bin/Debug/netcoreapp2.1/dnc100-mortgage-calculator.runtimeconfig.json
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/bin/Debug/netcoreapp2.1/dnc100-mortgage-calculator.runtimeconfig.dev.json
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/bin/Debug/netcoreapp2.1/dnc100-mortgage-calculator.dll
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/bin/Debug/netcoreapp2.1/dnc100-mortgage-calculator.pdb
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.csprojAssemblyReference.cache
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.AssemblyInfoInputs.cache
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.AssemblyInfo.cs
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.csproj.CoreCompileInputs.cache
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.dll
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.pdb
+/Users/kennethlapid/DNC100/dnc100-mortgage-calculator/src/dnc100-mortgage-calculator/obj/Debug/netcoreapp2.1/dnc100-mortgage-calculator.genruntimeconfig.cache

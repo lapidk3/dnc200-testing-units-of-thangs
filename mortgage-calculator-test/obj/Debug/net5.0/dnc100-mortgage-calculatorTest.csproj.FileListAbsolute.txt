@@ -1,0 +1,5 @@
+/Users/kennethlapid/DNC200/dnc200-testing-units-of-thangs/mortgage-calculator-test/obj/Debug/net5.0/dnc100-mortgage-calculatorTest.csprojAssemblyReference.cache
+/Users/kennethlapid/DNC200/dnc200-testing-units-of-thangs/mortgage-calculator-test/obj/Debug/net5.0/dnc100-mortgage-calculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethlapid/DNC200/dnc200-testing-units-of-thangs/mortgage-calculator-test/obj/Debug/net5.0/dnc100-mortgage-calculatorTest.AssemblyInfoInputs.cache
+/Users/kennethlapid/DNC200/dnc200-testing-units-of-thangs/mortgage-calculator-test/obj/Debug/net5.0/dnc100-mortgage-calculatorTest.AssemblyInfo.cs
+/Users/kennethlapid/DNC200/dnc200-testing-units-of-thangs/mortgage-calculator-test/obj/Debug/net5.0/dnc100-mortgage-calculatorTest.csproj.CoreCompileInputs.cache
